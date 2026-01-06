@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on Machine Learning Projects <br>I'm looking forward to work with the senior developers of ML , DL and GEN AI<br>I am currently looking for the right persons and good team<br>I have Done DSA through Java , Python , HTML , CSS , JS , Flask , GEN AI , Machine Learning and Deep Learning <br>I have done some projects like Time Weather application , GEN AI chatbot , Cold Email Generator using groq ai<br><br>
+I'm currently working on Machine Learning Projects <br>I'm looking forward to work with the senior developers of ML , DL and GEN AI<br>I am currently looking for the right colleagues and good team<br>I have Done DSA through Java , Python , HTML , CSS , JS , Flask , GEN AI , Machine Learning and Deep Learning <br>I have done some projects like Time Weather application , GEN AI chatbot , Cold Email Generator using groq ai<br><br>
 
 
 ## 🌐 Socials:
